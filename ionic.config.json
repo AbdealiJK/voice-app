@@ -1,5 +1,7 @@
 {
   "name": "Voice App",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
